@@ -1,7 +1,7 @@
 # Python CV Project
 
 
-- 👋 Hi, I’m @eedriss67
+- 👋 Hi, i’m @eedriss67
 - 👀 I’m interested in ...becoming a web developer
 - 🌱 I’m currently learning ...Python Programming language
 - 💞️ I’m looking to collaborate on ...
