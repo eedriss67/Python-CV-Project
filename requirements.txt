@@ -1,0 +1,4 @@
+# Here is where the installation packages for the CV project are stored.
+
+python-docx==0.8.11
+pyttsx3==2.90
