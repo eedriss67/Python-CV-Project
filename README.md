@@ -1,4 +1,4 @@
-## Python CV Project
+# Python CV Project
 
 - 👋 Hi, I’m @eedriss67
 - 👀 I’m interested in ...becoming a web developer
@@ -10,3 +10,6 @@
 eedriss67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## Installation links for packages for the CV project
