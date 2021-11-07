@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 ## Installation links for packages for the CV project
 
 ## Installation
- run Python install -r requirements.txt
+ run python install -r requirements.txt
