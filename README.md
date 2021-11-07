@@ -1,5 +1,6 @@
 # Python CV Project
 
+
 - 👋 Hi, I’m @eedriss67
 - 👀 I’m interested in ...becoming a web developer
 - 🌱 I’m currently learning ...Python Programming language
@@ -12,7 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Installation links for packages for the CV project
-
-## Installation - ### Installation links for packages for the CV project
+## Installation
  run python install -r requirements.txt
