@@ -29,7 +29,7 @@ font.color.rgb = RGBColor(0, 0, 255)
 
 style = cv.styles["Normal"]
 font = style.font
-font.name = "Ar Cena"
+font.name = "AR CENA"
 font.size = Pt(15)
 
 cv.add_paragraph()
